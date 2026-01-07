@@ -1,5 +1,5 @@
 export const RESTAURANT_INFO = {
-  name: 'Zaman Arabian Mandi',
+  name: 'Zaman Arabian Food',
   tagline: 'Taste the Luxury of Arabian Mandi',
   description: 'Authentic flavors, modern elegance',
   
@@ -7,11 +7,11 @@ export const RESTAURANT_INFO = {
     phone: '+91 98765 43210',
     email: 'reservations@arabianmandi.com',
     address: {
-      street: '123 Heritage Street',
-      area: 'Luxury District',
-      city: 'Mumbai',
-      state: 'Maharashtra',
-      pincode: '400001',
+      street: 'Beside Ruman Hotel, Saroor Nagar',
+      area: 'Saidabda District',
+      city: 'Hyderabad',
+      state: 'Telangana',
+      pincode: '500059',
       country: 'India',
     },
   },

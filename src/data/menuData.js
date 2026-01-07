@@ -57,7 +57,7 @@ export const MENU_ITEMS = {
       name: 'Seafood Mandi Special',
       description: 'Fresh prawns and hammour fish with saffron rice, topped with crispy onions and cashews',
       price: '₹1,699',
-      image: 'https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?w=800&q=80',
+      image: 'https://images.unsplash.com/photo-1571167366136-b57e07761625?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       dietary: [],
       beveragePairing: {
         name: 'Pomegranate Juice',

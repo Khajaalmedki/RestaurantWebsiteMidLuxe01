@@ -9,7 +9,7 @@ const DishCard = ({ dish }) => {
         <img 
           src={dish.image}
           alt={dish.name}
-          className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
+          className="relative z-20 w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
           onError={(e) => {
             e.target.src = 'https://picsum.photos/400/300';
           }}
